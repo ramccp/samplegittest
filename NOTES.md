@@ -1,0 +1,4 @@
+- git init : to initialize a new Git repository in the current directory.
+- git add : to add files to the staging area.
+- git commit : to commit changes to the repository.
+- git push : to upload local repository content to a remote repository.
